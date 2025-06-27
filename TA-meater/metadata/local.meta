@@ -1,0 +1,8 @@
+[app/install/install_source_checksum]
+version = 9.4.0
+modtime = 1750706562.929240000
+
+[inputs/device%3A%2F%2FMeater_Plus]
+owner = michael
+version = 9.4.0
+modtime = 1750707648.331324000
